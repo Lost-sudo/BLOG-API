@@ -7,3 +7,5 @@ logs/
 Thumbs.db
 
 .env
+
+solution.js
